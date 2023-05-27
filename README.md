@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Priyanka Pandharbale</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there%20👋%20this%20is%20Priyanka%20;I'm%20a%20Java%20Developer%20!!&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=27" /></a>
+</p>
+<h3 align="center">I'm a java developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
