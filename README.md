@@ -1,11 +1,10 @@
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhadassah123&psig=AOvVaw1er5G1qpvRzsZDbmK3Mjxi&ust=1711528474233000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCdzMrCkYUDFQAAAAAdAAAAABAK" /></a> 
+
 </p>
 <h3 align="center">I'm a java developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 - 🌱 I’m currently learning **SpringBoot**
 
