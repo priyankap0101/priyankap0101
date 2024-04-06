@@ -3,7 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
 
 </p>
-<h3 align="center">I'm a java developer from India.</h3>
+<h3 align="center">I'm a Software Developer from India.</h3>
 
 
 - 🌱 I’m currently learning **SpringBoot**
