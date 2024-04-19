@@ -1,6 +1,5 @@
 I'm Priyanka Rajendra Pandharbale, a Java Developer based in India. 😄🚀
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankap0101&label=Profile%20views&color=0e75b6&style=flat" alt="priyankap0101" /> </p>
 
 ---
 
