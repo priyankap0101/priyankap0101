@@ -7,7 +7,7 @@ I'm Priyanka Rajendra Pandharbale, a Java Developer based in India. 😄🚀
 &nbsp;Java&nbsp; | &nbsp;Hibernate&nbsp; | &nbsp;Spring&nbsp; | &nbsp;Spring Boot&nbsp; | &nbsp;Spring Security&nbsp;
 
 ⛺️ **Frontend:** 
-&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; 
+&nbsp;HTML5&nbsp; | &nbsp;CSS3&nbsp; | &nbsp;Tailwind CSS&nbsp;  | &nbsp;Bootstrap&nbsp; | &nbsp;JavaScript&nbsp; | &nbsp;ReactJS&nbsp; 
 
 📁 **Database:** 
 &nbsp;MySQL&nbsp; 
