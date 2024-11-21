@@ -5,19 +5,25 @@
 ## 🚀 **About Me**  
 I'm a passionate Java Developer with a strong focus on backend development and full-stack projects. I thrive on solving complex problems and building user-friendly, scalable applications. Let's connect and build something amazing together! 😄  
 
+## 💻 **Tech Stack**
 
-## 💻 **Tech Stack**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+</p>
 
-| **Backend**             | **Frontend**                             | **Database & Tools**                |
-|-------------------------|------------------------------------------|-------------------------------------|
-| - Java                  | - HTML5 | CSS3                          | - MySQL                            |
-| - Hibernate             | - Tailwind CSS | Bootstrap             | - Git & GitHub                      |
-| - Spring | Spring Boot  | - JavaScript | ReactJS                | - Postman                          |
-|                         |                                          | - Eclipse IDE                      |
-|                         |                                          | - Spring Tool Suite                |
-|                         |                                          | - Visual Studio Code               |
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 
 
