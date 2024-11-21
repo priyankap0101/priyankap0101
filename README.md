@@ -55,12 +55,3 @@ A secure password generator tool built with **React** and **Spring Boot**.
 
 ### 🎬 **[Movie Spot](#)**  
 A dynamic React web app for discovering movies by filtering them based on language, genre, and country.  
-
-### 🏏 **[CrickSync](#)**  
-A real-time cricket updates platform built with **Spring Boot** and **Angular** featuring live scores and match schedules.  
-
-### 💼 **[Job Portal](#)**  
-A full-stack job portal application leveraging **Spring Boot** and **MySQL**, complete with Swagger API documentation.  
-
-
-
