@@ -47,11 +47,8 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 
 ## 🌟 **Featured Projects**  
 
-### 📊 **[Analytics Dashboard](#)**  
+### 📊 **[Analytics Dashboard](https://proadmindashboard.netlify.app/)**  
 Developed a sophisticated Analytics Dashboard application using **React** for the frontend and **Spring Boot** for the backend. The app features responsive design, real-time analytics, and optimized performance for seamless user experiences.
 
-### 🔑 **[PasswordGen](#)**  
-A secure password generator tool built with **React** and **Spring Boot**.  
 
-### 🎬 **[Movie Spot](#)**  
-A dynamic React web app for discovering movies by filtering them based on language, genre, and country.  
+
