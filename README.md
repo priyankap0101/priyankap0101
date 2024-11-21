@@ -8,25 +8,17 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 
 ## 💻 **Tech Stack**  
 
-### **Backend:**  
-- Java  
-- Hibernate  
-- Spring | Spring Boot 
+| **Backend**             | **Frontend**                             | **Database & Tools**                |
+|-------------------------|------------------------------------------|-------------------------------------|
+| - Java                  | - HTML5 | CSS3                          | - MySQL                            |
+| - Hibernate             | - Tailwind CSS | Bootstrap             | - Git & GitHub                      |
+| - Spring | Spring Boot  | - JavaScript | ReactJS                | - Postman                          |
+|                         |                                          | - Eclipse IDE                      |
+|                         |                                          | - Spring Tool Suite                |
+|                         |                                          | - Visual Studio Code               |
 
-### **Frontend:**  
-- HTML5 | CSS3  
-- Tailwind CSS | Bootstrap  
-- JavaScript | ReactJS  
 
-### **Database:**  
-- MySQL  
 
-### **Tools:**  
-- Git & GitHub  
-- Postman  
-- Eclipse IDE  
-- Spring Tool Suite  
-- Visual Studio Code  
 
 
 ## 📈 **GitHub Stats**  
