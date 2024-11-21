@@ -2,14 +2,8 @@
 **Java Developer | Full Stack Enthusiast | Tech Explorer**  
 📍 *Based in India*  
 
-
-
-
-
 ## 🚀 **About Me**  
 I'm a passionate Java Developer with a strong focus on backend development and full-stack projects. I thrive on solving complex problems and building user-friendly, scalable applications. Let's connect and build something amazing together! 😄  
-
-
 
 
 ## 💻 **Tech Stack**  
@@ -32,7 +26,6 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 - Postman  
 - Eclipse IDE  
 - Spring Tool Suite  
-- IntelliJ IDEA  
 - Visual Studio Code  
 
 
