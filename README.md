@@ -2,12 +2,15 @@
 **Java Developer | Full Stack Enthusiast | Tech Explorer**  
 📍 *Based in India*  
 
----
+
+
+
 
 ## 🚀 **About Me**  
 I'm a passionate Java Developer with a strong focus on backend development and full-stack projects. I thrive on solving complex problems and building user-friendly, scalable applications. Let's connect and build something amazing together! 😄  
 
----
+
+
 
 ## 💻 **Tech Stack**  
 
@@ -32,7 +35,6 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 - IntelliJ IDEA  
 - Visual Studio Code  
 
----
 
 ## 📈 **GitHub Stats**  
 
@@ -48,7 +50,7 @@ I'm a passionate Java Developer with a strong focus on backend development and f
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankap0101&theme=tokyonight&hide_border=true" alt="Streak Stats" />  
 </a>  
 
----
+
 
 ## 🌟 **Featured Projects**  
 
@@ -67,5 +69,5 @@ A real-time cricket updates platform built with **Spring Boot** and **Angular** 
 ### 💼 **[Job Portal](#)**  
 A full-stack job portal application leveraging **Spring Boot** and **MySQL**, complete with Swagger API documentation.  
 
----
+
 
