@@ -35,7 +35,7 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 
   <!-- Frameworks and Libraries -->
   <h3>Frameworks and Libraries</h3>
-  <div>
+  <div >  
     <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" class="skill-badge"/>
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" class="skill-badge"/>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" class="skill-badge"/>
@@ -55,11 +55,6 @@ I'm a passionate Java Developer with a strong focus on backend development and f
   </div>
 
 </div>
-
-
-
-
-
 
 ## 🌟 **Featured Projects**  
 
