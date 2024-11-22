@@ -50,20 +50,19 @@ I'm a passionate Java Developer with a strong focus on backend development and f
     </div>
   </div>
 
-  <!-- IDEs -->
-  <div>
-    <h3 style="font-size: 1.75rem; font-weight: bold; color: #333333; margin-bottom: 15px;">IDEs</h3>
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="max-height: 40px; margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" style="max-height: 40px; margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
-    </div>
+<!-- IDEs -->
+<div>
+  <h3 style="font-size: 1.75rem; font-weight: bold; color: #333333; margin-bottom: 15px;">IDEs</h3>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" style="max-height: 40px; margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="max-height: 40px; margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
   </div>
 </div>
 
+</div>
 
- 
-
-
+  </div>
+</div>
 
 ## 🌟 **Featured Projects**  
 
