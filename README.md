@@ -5,7 +5,7 @@
 ## 🚀 **About Me**  
 I'm a passionate Java Developer with a strong focus on backend development and full-stack projects. I thrive on solving complex problems and building user-friendly, scalable applications. Let's connect and build something amazing together! 😄  
 
-## 💻 **Skills**
+## 💻 Skills
 
 <div align="center">
 
@@ -60,6 +60,3 @@ I'm a passionate Java Developer with a strong focus on backend development and f
 
 ### 📊 **[Analytics Dashboard](https://proadmindashboard.netlify.app/)**  
 Developed a sophisticated Analytics Dashboard application using **React** for the frontend and **Spring Boot** for the backend. The app features responsive design, real-time analytics, and optimized performance for seamless user experiences.
-
-
-
