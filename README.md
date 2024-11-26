@@ -1,4 +1,5 @@
-# **Hi there! 👋 I'm Priyanka**  
+# **Hello, I'm Priyanka! 👋** 
+
 **Java Developer | Full Stack Enthusiast | Tech Explorer**  
 📍 *Based in India*  
 
