@@ -5,7 +5,7 @@
 📍 *India*  
 
 ## 🚀 **About Me**  
-Hi! I’m a dedicated **Java Developer** with a knack for backend development and a growing passion for full-stack projects. I enjoy tackling challenging problems, crafting scalable and user-centric applications, and constantly exploring new technologies.  
+I’m a dedicated **Java Developer** with a knack for backend development and a growing passion for full-stack projects. I enjoy tackling challenging problems, crafting scalable and user-centric applications, and constantly exploring new technologies.  
 
 Let’s collaborate to create something impactful and innovative! 😊  
 
