@@ -1,6 +1,6 @@
 # **Hello, I'm Priyanka! 👋**  
 
-**Java Developer | Full Stack Enthusiast | Tech Explorer**  
+**Java Developer | Full Stack Enthusiast | Passionate About Frontend Technologies & Backend Developmentr**  
 
 ## 🚀 **About Me**  
 I’m a dedicated **Java Developer** with a knack for backend development and a growing passion for full-stack projects. I enjoy tackling challenging problems, crafting scalable and user-centric applications, and constantly exploring new technologies.  
