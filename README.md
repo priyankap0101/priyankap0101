@@ -3,9 +3,9 @@
 **Java Developer | Full Stack Enthusiast | Passionate About Frontend Technologies & Backend Developmentr**  
 
 ## 🚀 **About Me**  
-I’m a dedicated **Java Developer** with a knack for backend development and a growing passion for full-stack projects. I enjoy tackling challenging problems, crafting scalable and user-centric applications, and constantly exploring new technologies.  
+I’m an aspiring Backend Developer with a foundation in Java, and a Frontend Developer eager to grow with React.js. Although I’m just starting out, I’m passionate about learning and developing scalable, user-friendly applications. I thrive on tackling new challenges and am excited to expand my knowledge in both frontend and backend technologies.
 
-Let’s collaborate to create something impactful and innovative! 😊  
+Let’s connect and create something amazing together! 😊
 
 ## 💻 Skills
 
