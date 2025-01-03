@@ -1,4 +1,4 @@
-# **Hello, I'm Priyanka! **  
+# **Hello, I'm Priyanka!** 
 
 **Java Developer | Full Stack Enthusiast | Passionate About Frontend Technologies & Backend Development**  
 
