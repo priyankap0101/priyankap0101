@@ -72,6 +72,7 @@ Let’s connect and build something incredible together! ✨
 Developed a sophisticated Analytics Dashboard application using **React** for the frontend and **Spring Boot** for the backend. The app features responsive design, real-time analytics, and optimized performance for seamless user experiences.
 
 ## 📊 **GitHub Stats**  
+
 <a href="https://github.com/priyankap0101">  
   <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankap0101&theme=tokyonight&hide_border=true" alt="Top Languages" />  
 </a>  
@@ -83,3 +84,4 @@ Developed a sophisticated Analytics Dashboard application using **React** for th
 <a href="https://github.com/priyankap0101">  
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankap0101&theme=tokyonight&hide_border=true" alt="Streak Stats" />  
 </a>  
+
