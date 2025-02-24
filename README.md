@@ -62,7 +62,7 @@ Let’s connect and build something incredible together! ✨
   </div>
 </div>
 
-</div>
+
 
   </div>
 </div>
