@@ -77,6 +77,6 @@ Developed a sophisticated Analytics Dashboard application using **React** for th
   <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyankap0101&theme=tokyonight&hide_border=true" alt="Profile Summary" />  
 </a>  
 
-<a">  
+<a  href="https://github.com/priyankap0101 ">  
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankap0101&theme=tokyonight&hide_border=true" alt="Streak Stats" />  
 </a> 
