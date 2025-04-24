@@ -1,6 +1,6 @@
 # **Hello, I'm Priyanka!** 
 
-**Java Developer | Full Stack Enthusiast | Frontend Technologies & Backend Development**  
+**Full Stack Enthusiast | Frontend Technologies & Backend Development**  
 
 ## 🚀 **About Me**  
 I’m an aspiring Backend Developer with a solid foundation in Java , and a Frontend Developer excited to grow with React.js ⚛️. As I’m just starting my journey 🚀, I’m deeply passionate about learning 📚 and crafting scalable, user-centric applications 🌐.
