@@ -54,7 +54,7 @@ I thrive on solving real-world challenges and am eager to expand my expertise in
 </div>
 
  <!-- Frameworks and Libraries -->
-  <div style="margin-bottom: 30px;">
+  <div style="margin-bottom: 35px;">
     <h3 style="font-size: 1.75rem; font-weight: bold; color: #333333; margin-bottom: 15px;">Frameworks and Libraries</h3>
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; align-items: center;">
       <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring MVC" style="max-height: 40px; margin: 5px; transition: transform 0.3s ease, box-shadow 0.3s ease; border-radius: 5px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 4px 8px rgba(0, 0, 0, 0.2)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"/>
