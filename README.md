@@ -1,4 +1,4 @@
-# **Hello, I'm Priyanka!** 
+# **I'm Priyanka!** 
 
 ## **Frontend Technologies & Backend Development**
 
